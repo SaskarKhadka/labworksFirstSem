@@ -3,7 +3,7 @@
 
 int main()
 {
-        Vector v1(-1, -2, 3);
+        Vector v1(-2, -2, 3);
         Vector v2(5, 6, -7);
         Vector v3 = -v1;
         Vector v4;
